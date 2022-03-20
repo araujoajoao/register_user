@@ -1,6 +1,6 @@
 # REGISTER_USER
 
-Challenge
+Desafio
 ```
 * Construir pelo menos dois endpoints utilizando Django e Python
 * Cadastrar usuário com login, senha e data de nascimento
